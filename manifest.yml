@@ -32,7 +32,7 @@ nodes:
   cloudlets: 4
   nodeGroup: other
   nodeType: docker
-  image: jelasticozor/hello-world:latest
+  image: jelasticozor/hello-world-app:latest
 skipNodeEmails: true
 
 # TODO: 
