@@ -27,7 +27,7 @@ nodes:
   nodeGroup: cp
   nodeType: docker
   image: jelasticozor/settings-displayer-app:latest
-- displayName: application
+- displayName: other
   count: 1
   cloudlets: 4
   nodeGroup: other
